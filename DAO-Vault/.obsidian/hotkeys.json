@@ -1,0 +1,11 @@
+{
+  "realclaudian:new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}
