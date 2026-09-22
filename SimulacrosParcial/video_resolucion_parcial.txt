@@ -1,9 +1,0 @@
-Resolución ejercicio tipo parcial (youtube)
-
-https://www.youtube.com/watch?v=KdFpJJxdcBI
-
-El profesor explica que, al momento del parcial, los estudiantes recibirán una carpeta con los siguientes archivos:
-- Un archivo en formato Markdown: Contiene el enunciado con las consignas y lo que deben programar.
-- Un archivo de datos: Contiene la información necesaria (como un archivo CSV) para realizar la lectura y el procesamiento.
-- Un archivo con casos de prueba: Contiene las funciones de prueba (utilizando pytest) que sirven de ejemplo para la mayoría 
-de los métodos solicitados y permiten verificar el avance en tiempo real.

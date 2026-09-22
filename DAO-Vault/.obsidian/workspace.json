@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/Agregación.md",
+                "file": "video_resolucion_parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agregación"
+              "title": "video_resolucion_parcial"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 542.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +226,8 @@
   },
   "active": "6b5a579d5136d3be",
   "lastOpenFiles": [
+    "Conocimiento/Agregación.md",
+    "video_resolucion_parcial.md",
     "Conocimiento/Secuencias.md",
     "Conocimiento/Sobreescritura de métodos.md",
     "Conocimiento/Testing unitario.md",
@@ -233,7 +236,6 @@
     "Conocimiento/Aserciones en pytest.md",
     "Conocimiento/Agregación.md.tmp.33000.af37439205fa",
     "Conocimiento/Archivos.md",
-    "Conocimiento/Agregación.md",
     "Unidades/Unidad 1 - Programación estructurada y secuencias.md",
     "Python - Mapa de Contenidos.md",
     "Conocimiento/Recursividad.md",
