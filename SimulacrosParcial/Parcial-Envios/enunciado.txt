@@ -1,0 +1,23 @@
+EJERCICIO 1 - ENVÍOS DE UNA EMPRESA DE CORREO
+
+Una empresa de correo registra los paquetes que debe 
+distribuir. De cada envío se conoce un código, ciudad 
+de destino, peso en kilogramos y costo base del envío.
+
+Existen dos tipos de envíos:
+- Envío común: el importe final es igual al costo base.
+- Envío express: al costo base se le agrega un 30%.
+
+El programa deberá leer los datos desde envios.csv, 
+crear los objetos correspondientes y 
+almacenarlos en una lista.
+
+Se deberá desarrollar lo necesario para:
+1. Calcular el importe final de cada envío según su tipo.
+2. Informar el total a recaudar por todos los envíos.
+3. Informar cuántos envíos pesan más de 10 kg.
+4. Informar las diferentes ciudades de destino existentes, 
+sin repetirlas.
+
+Formato: tipo, codigo, ciudad, peso, costo_base.
+Tipo 1 = común; tipo 2 = express.
